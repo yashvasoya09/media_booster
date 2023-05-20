@@ -38,4 +38,19 @@ samples, guidance on mobile development, and a full API reference.
 <img src = "https://github.com/yashvasoya09/media_booster/assets/120082183/25b0eff1-6c7e-4d59-be34-65900b56ed61" height="50%"width="50%">
 </p>
 
+<p>
+<img src = "https://github.com/yashvasoya09/media_booster/assets/120082183/13112441-a7e3-439a-9564-5aca946650b8" height="50%"width="50%">
+</p>
+
+<p>
+<img src = "https://github.com/yashvasoya09/media_booster/assets/120082183/9e49eb8a-897c-4a96-aae1-cd265d2f6d91" height="50%"width="50%">
+</p>
+
+<p>
+<img src = "https://github.com/yashvasoya09/media_booster/assets/120082183/f1dc6a12-83f8-4635-a955-982c6d08d940" height="50%"width="50%">
+</p>
+
+<p>
+<img src = "https://github.com/yashvasoya09/media_booster/assets/120082183/d97a9fec-182d-4b3c-9288-a4371818a44e" height="50%"width="50%">
+</p>
 
